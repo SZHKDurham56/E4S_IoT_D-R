@@ -4,3 +4,5 @@ This Project uses the MPU-6050 module to track a user's acceleration and to iden
 
 The program was compiled on a Raspberry Pi running the Raspberian OS and had the following connections: VCC -> Pin #4, GND
 -> Pin #34, SCL -> Pin #5, SDA -> Pin #3.
+
+Line 108 requires email credentials that need to be entered
